@@ -15,29 +15,24 @@ A modern e-commerce platform with Augmented Reality (AR) product preview capabil
 
 ### Homepage & Product Catalog
 <p align="center">
-  <img src="screenshots/homepage.png" alt="Homepage" width="45%"/>
-  <img src="screenshots/product-catalog.png" alt="Product Catalog" width="45%"/>
+  <img src="./project_demo_screenshots/pc_getstarted.png" alt="getstarted Page" width="45%"/>
+  <img src="./project_demo_screenshots/pc_explore_page.png" alt="Product explore" width="45%"/>
+  <img src="./project_demo_screenshots/pc_product_page.png" alt="Product detial Page" width="45%"/>
+  <img src="./project_demo_screenshots/mobile_product_page.png" alt="mobile page" width="45%"/>
 </p>
 
 ### AR Preview Experience
 <p align="center">
-  <img src="screenshots/ar-preview-android.jpg" alt="AR on Android" width="30%"/>
-  <img src="screenshots/ar-preview-ios.jpg" alt="AR on iOS" width="30%"/>
-  <img src="screenshots/3d-viewer.png" alt="3D Model Viewer" width="30%"/>
+  <img src="./project_demo_screenshots/mobile_ar_preview.jpg" alt="AR on Android" width="30%"/>
+  <img src="./project_demo_screenshots/pc_ar_preview.png" alt="3D Model Viewer" width="30%"/>
 </p>
 
 ### Product Management & Authentication
 <p align="center">
-  <img src="screenshots/create-product.png" alt="Create Product" width="45%"/>
-  <img src="screenshots/login.png" alt="Login Page" width="45%"/>
+  <img src="./project_demo_screenshots/pc_create_product.png" alt="Create Product" width="45%"/>
+  <img src="./project_demo_screenshots/pc_login_screen.png" alt="Login Page" width="45%"/>
 </p>
 
-> 📝 **How to Add Screenshots:**
-> 1. Create a `screenshots/` folder in your project root
-> 2. Add your demo images (PNG/JPG format)
-> 3. Commit and push: `git add screenshots/ && git commit -m "Add demo screenshots" && git push`
-
----
 
 ## 🌟 Features
 
