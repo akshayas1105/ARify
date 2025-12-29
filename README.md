@@ -713,7 +713,10 @@ Please ensure:
 - No sensitive data in commits
 
 ---
+## Acknowledgement
+This project was developed as a collaborative team effort.
 
+---
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
