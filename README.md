@@ -728,10 +728,6 @@ Just include a copy of the license.
 
 ---
 
-## 👥 Authors & Credits
-
-### Project Lead
-- **Prem Saldana** - [GitHub](https://github.com/Premsaldana)
 
 ### Technologies & Resources Used
 - [Google Model Viewer](https://modelviewer.dev/) - 3D/AR rendering
@@ -741,20 +737,6 @@ Just include a copy of the license.
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Vite](https://vitejs.dev/) - Build tool
 
-### Special Thanks
-- Google for Model Viewer and ARCore/ARKit integration
-- The React and Node.js communities
-- All contributors and testers
-
----
-
-## 📞 Support & Contact
-
-For support, questions, or feedback:
-
-- **Issues:** Create an [issue on GitHub](https://github.com/Premsaldana/ARify/issues)
-- **Email:** your-email@example.com
-- **Twitter:** [@yourhandle](https://twitter.com)
 
 ---
 
@@ -794,7 +776,3 @@ For support, questions, or feedback:
 - [ ] API rate limiting
 
 ---
-
-**Made with ❤️ by ARify Team**
-
-*Last Updated: December 2, 2025*
